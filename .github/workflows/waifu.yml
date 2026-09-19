@@ -20,17 +20,36 @@ jobs:
 
       - name: Get random waifu
         run: |
-          mkdir -p assets
+            mkdir -p assets
 
-          RESPONSE=$(curl -s \
-            -H "User-Agent: GitHubProfileWaifu (https://github.com/${{ github.repository }})" \
+            USER_AGENT="UnDeCaryGitHubProfile (https://github.com/${{ github.repository }})"
+
+            RESPONSE=$(curl -fsS \
+            --retry 3 \
+            -H "User-Agent: $USER_AGENT" \
             "https://nekos.best/api/v2/waifu")
 
-          IMAGE_URL=$(echo "$RESPONSE" | jq -r '.results[0].url')
+            IMAGE_URL=$(echo "$RESPONSE" | jq -er '.results[0].url')
 
-          echo "Downloading: $IMAGE_URL"
+            echo "Downloading: $IMAGE_URL"
 
-          curl -L "$IMAGE_URL" -o assets/waifu.png
+            curl -fL \
+            --retry 3 \
+            -H "User-Agent: $USER_AGENT" \
+            -H "Accept: image/*" \
+            "$IMAGE_URL" \
+            -o /tmp/waifu.png
+
+            FILE_TYPE=$(file --mime-type -b /tmp/waifu.png)
+            echo "Downloaded MIME type: $FILE_TYPE"
+
+            if [[ "$FILE_TYPE" != image/* ]]; then
+            echo "ERROR: API returned something that is not an image"
+            head -c 300 /tmp/waifu.png
+            exit 1
+            fi
+
+            mv /tmp/waifu.png assets/waifu.png
 
       - name: Commit new waifu
         run: |
