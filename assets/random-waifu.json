@@ -1,19 +1,28 @@
 {
-  "id": 4354,
-  "perceptualHash": "c53b3e996944d28e",
+  "id": 6407,
+  "perceptualHash": "cb52a50d967496bc",
   "extension": ".jpeg",
-  "dominantColor": "#94808D",
-  "source": "https://reddit.com/nlh2yk/",
+  "dominantColor": "#B59874",
+  "source": "https://reddit.com/pceay9/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1327,
-  "height": 1969,
-  "byteSize": 388230,
-  "url": "https://cdn.waifu.im/4354.jpeg",
+  "width": 2250,
+  "height": 4000,
+  "byteSize": 534819,
+  "url": "https://cdn.waifu.im/6407.jpeg",
   "tags": [
+    {
+      "id": 7,
+      "name": "Oppai",
+      "slug": "oppai",
+      "description": "Large-breasted women",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
     {
       "id": 12,
       "name": "Waifu",
@@ -25,13 +34,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 9,
+  "favorites": 7,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Everything you've ever wanted is on the other side of fear.",
-    "author": "Brian Tracy",
+    "text": "Go as far as you can see and you will see further.",
+    "author": "Zig Ziglar",
     "provider": "ZenQuotes"
   }
 }
