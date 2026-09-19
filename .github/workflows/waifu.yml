@@ -32,7 +32,7 @@ jobs:
       - name: Update Cache-Buster in README
         run: |
             TIMESTAMP=$(date +%s)
-            sed -i -E "s|(assets/random-waifu\.svg\?v=)[0-9]+|\1$TIMESTAMP|g" README.md
+            sed -i -E "s/(\.svg\?v=)[0-9]+/\1$TIMESTAMP/g" README.md
 
       - name: Commit new waifu
         run: |
