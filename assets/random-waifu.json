@@ -1,0 +1,37 @@
+{
+  "id": 2132,
+  "perceptualHash": "ebe9f59c82142ce1",
+  "extension": ".png",
+  "dominantColor": "#C9BCC8",
+  "source": "https://reddit.com/jxhp5m/",
+  "artists": [],
+  "uploaderId": null,
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
+  "isNsfw": false,
+  "isAnimated": false,
+  "width": 2250,
+  "height": 4000,
+  "byteSize": 7300391,
+  "url": "https://cdn.waifu.im/2132.png",
+  "tags": [
+    {
+      "id": 12,
+      "name": "Waifu",
+      "slug": "waifu",
+      "description": "A female anime/manga character.",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    }
+  ],
+  "reviewStatus": "Accepted",
+  "favorites": 11,
+  "likedAt": null,
+  "addedToAlbumAt": null,
+  "albums": [],
+  "quote": {
+    "text": "To lead the people, walk behind them.",
+    "author": "Lao Tzu",
+    "provider": "ZenQuotes"
+  }
+}

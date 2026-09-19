@@ -18,45 +18,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Get random waifu
-        run: |
-            mkdir -p assets
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
 
-            USER_AGENT="UnDeCaryGitHubProfile (https://github.com/${{ github.repository }})"
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
 
-            RESPONSE=$(curl -fsS \
-            --retry 3 \
-            -H "User-Agent: $USER_AGENT" \
-            "https://nekos.best/api/v2/waifu")
-
-            IMAGE_URL=$(echo "$RESPONSE" | jq -er '.results[0].url')
-
-            echo "Downloading: $IMAGE_URL"
-
-            curl -fL \
-            --retry 3 \
-            -H "User-Agent: $USER_AGENT" \
-            -H "Accept: image/*" \
-            "$IMAGE_URL" \
-            -o /tmp/waifu.png
-
-            FILE_TYPE=$(file --mime-type -b /tmp/waifu.png)
-            echo "Downloaded MIME type: $FILE_TYPE"
-
-            if [[ "$FILE_TYPE" != image/* ]]; then
-            echo "ERROR: API returned something that is not an image"
-            head -c 300 /tmp/waifu.png
-            exit 1
-            fi
-
-            mv /tmp/waifu.png assets/waifu.png
+      - name: Generate waifu SVG card
+        run: python scripts/random_waifu.py
 
       - name: Commit new waifu
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/waifu.png
+          git add assets/random-waifu.*
 
           if git diff --cached --quiet; then
             echo "Nothing changed"

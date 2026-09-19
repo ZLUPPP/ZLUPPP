@@ -58,10 +58,8 @@
 
 ---
 
-<h2 align="center">🌹Waifu of the day🌹</h2>
-
 <p align="center">
-  <img src="./assets/waifu.png" width="420">
+  <img src="./assets/random-waifu.svg" width="100%" alt="Random Waifu" />
 </p>
 
 ---
@@ -71,4 +69,3 @@
        width="100%"
        alt="LeetCode Monthly Climb" />
 </p>
-
