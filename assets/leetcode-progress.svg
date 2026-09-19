@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="690"
+     viewBox="0 0 900 690" role="img"
+     aria-labelledby="title description">
+  <title id="title">LeetCode Monthly Climb for ZLUP</title>
+  <desc id="description">2 of 30 unique problems solved,
+    6.7 percent, below schedule.</desc>
+  <defs>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="block-grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 H 0 V 16" fill="none" stroke="#30363d"
+            stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M 0 3.5 H 900" stroke="#ffffff" stroke-opacity="0.016"/>
+    </pattern>
+    <style>
+      text {
+        font-family: "JetBrains Mono", "Fira Code", "Courier New", monospace;
+        fill: #c9d1d9;
+      }
+      .title { font-size: 17px; font-weight: 700; letter-spacing: 1px; }
+      .terminal { font-size: 13px; }
+      .big { font-size: 30px; font-weight: 700; }
+      .percent { font-size: 27px; font-weight: 700; fill: #58a6ff; }
+      .label { font-size: 12px; font-weight: 700; letter-spacing: 1.2px; }
+      .small { font-size: 12px; }
+      .dim { fill: #8b949e; }
+      .value { font-size: 14px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="688" rx="12" fill="#0d1117"
+        stroke="#30363d" stroke-width="2"/>
+  <path d="M 13 1 H 887 Q 899 1 899 13 V 43 H 1 V 13 Q 1 1 13 1 Z"
+        fill="#161b22"/>
+  <line x1="1" y1="43" x2="899" y2="43" stroke="#30363d"/>
+  <circle cx="23" cy="22" r="6" fill="#f85149"/>
+  <circle cx="43" cy="22" r="6" fill="#d29922"/>
+  <circle cx="63" cy="22" r="6" fill="#3fb950"/>
+  <text x="85" y="27" class="terminal dim">leetcode@ZLUP</text>
+
+  <text x="28" y="79" class="title">LEETCODE MONTHLY CLIMB</text>
+  <text x="872" y="79" class="label dim" text-anchor="end">SEPTEMBER 2026</text>
+  <text x="28" y="119" class="big">2 / 30</text>
+  <text x="872" y="116" class="percent" text-anchor="end">6.7%</text>
+  <text x="28" y="145" class="label" fill="#8b949e">28 PROBLEMS TO SUMMIT</text>
+
+  
+  <!-- PIXEL PLATFORMER MAP: every corner is deliberately axis-aligned -->
+  <path d="M 30 443 H 65 V 425 H 125 V 385 H 195 V 345 H 265 V 305
+           H 335 V 265 H 405 V 215 H 475 V 155 H 555 V 195 H 625
+           V 235 H 695 V 275 H 765 V 315 H 855 V 443 Z"
+        fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <path d="M 30 443 H 65 V 425 H 125 V 385 H 195 V 345 H 265 V 305
+           H 335 V 265 H 405 V 215 H 475 V 155 H 555 V 195 H 625
+           V 235 H 695 V 275 H 765 V 315 H 855 V 443 Z"
+        fill="url(#block-grid)"/>
+
+  <!-- breakable blocks / game decorations -->
+  <g fill="#30363d" shape-rendering="crispEdges">
+    <rect x="77" y="408" width="7" height="7"/>
+    <rect x="214" y="328" width="7" height="7"/>
+    <rect x="354" y="248" width="7" height="7"/>
+    <rect x="647" y="218" width="7" height="7"/>
+    <rect x="790" y="298" width="7" height="7"/>
+  </g>
+  <!-- level-number tiles make the redesign visible even without color -->
+  <g class="small dim" text-anchor="middle">
+    <text x="158" y="412">01</text>
+    <text x="298" y="332">02</text>
+    <text x="438" y="242">03</text>
+    <text x="590" y="222">B1</text>
+    <text x="730" y="302">B2</text>
+  </g>
+  
+  <g fill="none" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M 65.0 425.0 L 125.0 425.0 L 125.0 385.0 L 195.0 385.0 L 195.0 345.0 L 265.0 345.0 L 265.0 305.0 L 335.0 305.0 L 335.0 265.0 L 405.0 265.0 L 405.0 215.0 L 475.0 215.0 L 475.0 155.0 L 495.0 155.0" stroke="#30363d"/>
+    <path d="M 495.0 155.0 L 555.0 155.0 L 555.0 195.0 L 625.0 195.0 L 625.0 235.0 L 695.0 235.0 L 695.0 275.0 L 765.0 275.0 L 765.0 315.0 L 855.0 315.0" stroke="#30363d"
+          opacity="0.28"/>
+    <path d="M 65.0 425.0 L 111.7 425.0" stroke="#58a6ff"/>
+    <path d="M 495.0 155.0" stroke="#3fb950"
+          opacity="0.28"/>
+  </g>
+
+  <!-- game start marker -->
+  <rect x="60" y="420" width="10" height="10" fill="#8b949e"/>
+  <rect x="63" y="423" width="4" height="4" fill="#c9d1d9"/>
+  <text x="50" y="459" class="label dim">LEVEL START</text>
+
+  
+  <g shape-rendering="crispEdges" aria-label="goal checkpoint">
+    <rect x="493" y="104" width="4" height="51" fill="#c9d1d9"/>
+    <rect x="497" y="104" width="30" height="12" fill="#3fb950"/>
+    <rect x="521" y="116" width="6" height="6" fill="#3fb950"/>
+  </g>
+  <text x="536" y="110" class="label" style="fill:#3fb950">CHECKPOINT</text>
+  <text x="536" y="130" class="value">GOAL 30</text>
+
+  <text x="785" y="348" class="label dim" text-anchor="middle"
+        opacity="0.28">OVERGOAL TRAIL</text>
+  
+  
+    <g transform="translate(111.7 425.0)" shape-rendering="crispEdges"
+       aria-label="pixel climber">
+      <rect x="-16" y="-35" width="34" height="38" rx="2"
+            fill="#58a6ff" opacity="0.10" filter="url(#glow)"/>
+      <!-- backpack -->
+      <rect x="-11" y="-21" width="5" height="13" fill="#1f6feb"/>
+      <rect x="-13" y="-18" width="3" height="7" fill="#0d419d"/>
+      <!-- helmet and face -->
+      <rect x="-6" y="-31" width="13" height="4" fill="#58a6ff"/>
+      <rect x="-8" y="-28" width="15" height="3" fill="#1f6feb"/>
+      <rect x="-5" y="-25" width="11" height="8" fill="#c9d1d9"/>
+      <rect x="3" y="-23" width="3" height="3" fill="#0d1117"/>
+      <!-- jacket, arms, and belt -->
+      <rect x="-6" y="-17" width="12" height="10" fill="#58a6ff"/>
+      <rect x="-10" y="-16" width="4" height="4" fill="#1f6feb"/>
+      <rect x="-12" y="-13" width="4" height="7" fill="#c9d1d9"/>
+      <rect x="6" y="-16" width="4" height="8" fill="#1f6feb"/>
+      <rect x="8" y="-9" width="4" height="4" fill="#c9d1d9"/>
+      <rect x="-6" y="-9" width="12" height="3" fill="#d29922"/>
+      <!-- legs and boots -->
+      <rect x="-5" y="-6" width="4" height="6" fill="#8b949e"/>
+      <rect x="2" y="-6" width="4" height="6" fill="#8b949e"/>
+      <rect x="-7" y="-2" width="6" height="2" fill="#c9d1d9"/>
+      <rect x="2" y="-2" width="7" height="2" fill="#c9d1d9"/>
+    </g>
+
+  <!-- lower panels -->
+  <rect x="28" y="467" width="412" height="137" rx="8"
+        fill="#161b22" stroke="#30363d"/>
+  <text x="48" y="495" class="label dim">THIS MONTH</text>
+  <circle cx="53" cy="525" r="4" fill="#3fb950"/>
+  <text x="65" y="530" class="value" style="fill:#3fb950">2 EASY</text>
+  <circle cx="173" cy="525" r="4" fill="#d29922"/>
+  <text x="185" y="530" class="value" style="fill:#d29922">0 MEDIUM</text>
+  <circle cx="313" cy="525" r="4" fill="#f85149"/>
+  <text x="325" y="530" class="value" style="fill:#f85149">0 HARD</text>
+  
+  <text x="48" y="579" class="small dim">DAY 19/30</text>
+  <text x="420" y="579" class="small dim" text-anchor="end">UNIQUE ACCEPTED</text>
+
+  <rect x="460" y="467" width="412" height="137" rx="8"
+        fill="#161b22" stroke="#30363d"/>
+  <text x="480" y="495" class="label dim">CLIMB STATUS</text>
+  <text x="480" y="524" class="small dim">Expected</text>
+  <text x="585" y="524" class="value">19</text>
+  <text x="480" y="547" class="small dim">Current</text>
+  <text x="585" y="547" class="value">2</text>
+  <text x="480" y="570" class="small dim">Delta</text>
+  <text x="585" y="570" class="value" style="fill:#f85149">-17</text>
+  <circle cx="670" cy="545" r="5" fill="#f85149"/>
+  <text x="684" y="550" class="label" style="fill:#f85149">BELOW SCHEDULE</text>
+
+  <line x1="28" y1="628" x2="872" y2="628" stroke="#21262d"/>
+  
+  <g aria-label="animated progress terminal">
+    <text x="28.0" y="659" class="terminal">
+      <tspan style="fill:#3fb950">ZLUP@leetcode</tspan><tspan style="fill:#8b949e">:~$</tspan>
+    </text>
+    <text x="160.6" y="659" class="terminal" opacity="0">c<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.059880;0.263473;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="168.4" y="659" class="terminal" opacity="0">l<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.065494;0.260479;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="176.2" y="659" class="terminal" opacity="0">i<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.071108;0.257485;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="184.0" y="659" class="terminal" opacity="0">m<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.076722;0.254491;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="191.8" y="659" class="terminal" opacity="0">b<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.082335;0.251497;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="199.6" y="659" class="terminal" opacity="0">.<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.087949;0.248503;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="207.4" y="659" class="terminal" opacity="0">n<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.093563;0.245509;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="215.2" y="659" class="terminal" opacity="0">e<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.099177;0.242515;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="223.0" y="659" class="terminal" opacity="0">x<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.104790;0.239521;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="230.8" y="659" class="terminal" opacity="0">t<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.110404;0.236527;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="238.6" y="659" class="terminal" opacity="0">(<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.116018;0.233533;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="246.4" y="659" class="terminal" opacity="0">2<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.121632;0.230539;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="254.2" y="659" class="terminal" opacity="0">8<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.127246;0.227545;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="262.0" y="659" class="terminal" opacity="0">)<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.132859;0.224551;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="160.6" y="659" class="terminal" opacity="0">p<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.292665;0.625374;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="168.4" y="659" class="terminal" opacity="0">a<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.298278;0.622380;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="176.2" y="659" class="terminal" opacity="0">c<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.303892;0.619386;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="184.0" y="659" class="terminal" opacity="0">e<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.309506;0.616392;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="191.8" y="659" class="terminal" opacity="0">.<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.315120;0.613398;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="199.6" y="659" class="terminal" opacity="0">s<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.320734;0.610404;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="207.4" y="659" class="terminal" opacity="0">t<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.326347;0.607410;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="215.2" y="659" class="terminal" opacity="0">a<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.331961;0.604416;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="223.0" y="659" class="terminal" opacity="0">t<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.337575;0.601422;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="230.8" y="659" class="terminal" opacity="0">u<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.343189;0.598428;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="238.6" y="659" class="terminal" opacity="0">s<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.348802;0.595434;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="246.4" y="659" class="terminal" opacity="0">(<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.354416;0.592440;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="254.2" y="659" class="terminal" opacity="0">&quot;<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.360030;0.589446;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="262.0" y="659" class="terminal" opacity="0">b<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.365644;0.586452;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="269.8" y="659" class="terminal" opacity="0">e<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.371257;0.583458;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="277.6" y="659" class="terminal" opacity="0">l<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.376871;0.580464;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="285.4" y="659" class="terminal" opacity="0">o<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.382485;0.577470;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="293.2" y="659" class="terminal" opacity="0">w<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.388099;0.574476;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="301.0" y="659" class="terminal" opacity="0">_<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.393713;0.571482;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="308.8" y="659" class="terminal" opacity="0">s<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.399326;0.568488;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="316.6" y="659" class="terminal" opacity="0">c<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.404940;0.565494;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="324.4" y="659" class="terminal" opacity="0">h<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.410554;0.562500;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="332.2" y="659" class="terminal" opacity="0">e<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.416168;0.559506;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="340.0" y="659" class="terminal" opacity="0">d<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.421781;0.556512;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="347.8" y="659" class="terminal" opacity="0">u<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.427395;0.553518;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="355.6" y="659" class="terminal" opacity="0">l<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.433009;0.550524;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="363.4" y="659" class="terminal" opacity="0">e<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.438623;0.547530;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="371.2" y="659" class="terminal" opacity="0">&quot;<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.444237;0.544536;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="379.0" y="659" class="terminal" opacity="0">)<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.449850;0.541542;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="160.6" y="659" class="terminal" opacity="0">p<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.654566;0.918413;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="168.4" y="659" class="terminal" opacity="0">r<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.660180;0.915419;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="176.2" y="659" class="terminal" opacity="0">o<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.665793;0.912425;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="184.0" y="659" class="terminal" opacity="0">g<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.671407;0.909431;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="191.8" y="659" class="terminal" opacity="0">r<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.677021;0.906437;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="199.6" y="659" class="terminal" opacity="0">e<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.682635;0.903443;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="207.4" y="659" class="terminal" opacity="0">s<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.688249;0.900449;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="215.2" y="659" class="terminal" opacity="0">s<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.693862;0.897455;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="223.0" y="659" class="terminal" opacity="0">.<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.699476;0.894461;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="230.8" y="659" class="terminal" opacity="0">u<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.705090;0.891467;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="238.6" y="659" class="terminal" opacity="0">p<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.710704;0.888473;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="246.4" y="659" class="terminal" opacity="0">d<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.716317;0.885479;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="254.2" y="659" class="terminal" opacity="0">a<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.721931;0.882485;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="262.0" y="659" class="terminal" opacity="0">t<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.727545;0.879491;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="269.8" y="659" class="terminal" opacity="0">e<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.733159;0.876497;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="277.6" y="659" class="terminal" opacity="0">(<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.738772;0.873503;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="285.4" y="659" class="terminal" opacity="0">6<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.744386;0.870509;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="293.2" y="659" class="terminal" opacity="0">.<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.750000;0.867515;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="301.0" y="659" class="terminal" opacity="0">7<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.755614;0.864521;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="308.8" y="659" class="terminal" opacity="0">%<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.761228;0.861527;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text><text x="316.6" y="659" class="terminal" opacity="0">)<animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.766841;0.858533;1" calcMode="discrete" dur="13.360s" repeatCount="indefinite"/></text>
+    <text x="160.6" y="659" class="terminal" style="fill:#58a6ff">█
+      <animate attributeName="x" values="160.6;168.4;176.2;184.0;191.8;199.6;207.4;215.2;223.0;230.8;238.6;246.4;254.2;262.0;269.8;262.0;254.2;246.4;238.6;230.8;223.0;215.2;207.4;199.6;191.8;184.0;176.2;168.4;160.6;168.4;176.2;184.0;191.8;199.6;207.4;215.2;223.0;230.8;238.6;246.4;254.2;262.0;269.8;277.6;285.4;293.2;301.0;308.8;316.6;324.4;332.2;340.0;347.8;355.6;363.4;371.2;379.0;386.8;379.0;371.2;363.4;355.6;347.8;340.0;332.2;324.4;316.6;308.8;301.0;293.2;285.4;277.6;269.8;262.0;254.2;246.4;238.6;230.8;223.0;215.2;207.4;199.6;191.8;184.0;176.2;168.4;160.6;168.4;176.2;184.0;191.8;199.6;207.4;215.2;223.0;230.8;238.6;246.4;254.2;262.0;269.8;277.6;285.4;293.2;301.0;308.8;316.6;324.4;316.6;308.8;301.0;293.2;285.4;277.6;269.8;262.0;254.2;246.4;238.6;230.8;223.0;215.2;207.4;199.6;191.8;184.0;176.2;168.4;160.6;160.6" keyTimes="0.000000;0.065494;0.071108;0.076722;0.082335;0.087949;0.093563;0.099177;0.104790;0.110404;0.116018;0.121632;0.127246;0.132859;0.138473;0.227545;0.230539;0.233533;0.236527;0.239521;0.242515;0.245509;0.248503;0.251497;0.254491;0.257485;0.260479;0.263473;0.266467;0.298278;0.303892;0.309506;0.315120;0.320734;0.326347;0.331961;0.337575;0.343189;0.348802;0.354416;0.360030;0.365644;0.371257;0.376871;0.382485;0.388099;0.393713;0.399326;0.404940;0.410554;0.416168;0.421781;0.427395;0.433009;0.438623;0.444237;0.449850;0.455464;0.544536;0.547530;0.550524;0.553518;0.556512;0.559506;0.562500;0.565494;0.568488;0.571482;0.574476;0.577470;0.580464;0.583458;0.586452;0.589446;0.592440;0.595434;0.598428;0.601422;0.604416;0.607410;0.610404;0.613398;0.616392;0.619386;0.622380;0.625374;0.628368;0.660180;0.665793;0.671407;0.677021;0.682635;0.688249;0.693862;0.699476;0.705090;0.710704;0.716317;0.721931;0.727545;0.733159;0.738772;0.744386;0.750000;0.755614;0.761228;0.766841;0.772455;0.861527;0.864521;0.867515;0.870509;0.873503;0.876497;0.879491;0.882485;0.885479;0.888473;0.891467;0.894461;0.897455;0.900449;0.903443;0.906437;0.909431;0.912425;0.915419;0.918413;0.921407;1.000000"
+               calcMode="discrete" dur="13.360s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1"
+               calcMode="discrete" dur="0.85s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="1" y="1" width="898" height="688" rx="12" fill="url(#scanlines)"
+        pointer-events="none"/>
+</svg>
