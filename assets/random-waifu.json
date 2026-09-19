@@ -1,18 +1,18 @@
 {
-  "id": 6557,
-  "perceptualHash": "eb1462cab445d6f2",
-  "extension": ".jpeg",
-  "dominantColor": "#CBBBBF",
-  "source": "https://reddit.com/pjw0qb/",
+  "id": 2028,
+  "perceptualHash": "d430f25ba4d7c3c1",
+  "extension": ".png",
+  "dominantColor": "#86868A",
+  "source": "https://reddit.com/jqfuo9/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2500,
+  "width": 2250,
   "height": 4000,
-  "byteSize": 701203,
-  "url": "https://cdn.waifu.im/6557.jpeg",
+  "byteSize": 7662986,
+  "url": "https://cdn.waifu.im/2028.png",
   "tags": [
     {
       "id": 12,
@@ -25,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 12,
+  "favorites": 8,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.",
-    "author": "Wayne Dyer",
+    "text": "Go as far as you can see and you will see further.",
+    "author": "Zig Ziglar",
     "provider": "ZenQuotes"
   }
 }
