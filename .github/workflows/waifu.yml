@@ -29,17 +29,12 @@ jobs:
       - name: Generate waifu SVG card
         run: python scripts/random_waifu.py
 
-      - name: Update Cache-Buster in README
-        run: |
-            TIMESTAMP=$(date +%s)
-            sed -i -E "s/(\.svg\?v=)[0-9]+/\1$TIMESTAMP/g" README.md
-
       - name: Commit new waifu
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/random-waifu.* README.md
+          git add assets/random-waifu.*
 
           if git diff --cached --quiet; then
             echo "Nothing changed"

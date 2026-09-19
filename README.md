@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./assets/terminal.svg?v=1" width="100%" alt="Terminal Header"/>
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal Header"/>
 </p>
 </div>
 
@@ -59,13 +59,13 @@
 ---
 
 <p align="center">
-  <img src="./assets/random-waifu.svg?v=1" width="100%" alt="Random Waifu" />
+  <img src="./assets/random-waifu.svg" width="100%" alt="Random Waifu" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="./assets/leetcode-progress.svg?v=1"
+  <img src="./assets/leetcode-progress.svg"
        width="100%"
        alt="LeetCode Monthly Climb" />
 </p>
