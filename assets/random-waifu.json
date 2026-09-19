@@ -1,24 +1,54 @@
 {
-  "id": 2028,
-  "perceptualHash": "d430f25ba4d7c3c1",
+  "id": 7511,
+  "perceptualHash": "d23709f92634326f",
   "extension": ".png",
-  "dominantColor": "#86868A",
-  "source": "https://reddit.com/jqfuo9/",
-  "artists": [],
+  "dominantColor": "#955F68",
+  "source": "https://www.pixiv.net/en/artworks/96353682",
+  "artists": [
+    {
+      "id": 686,
+      "name": "Pillo",
+      "patreon": null,
+      "pixiv": "https://www.pixiv.net/users/16778114",
+      "twitter": "https://twitter.com/Pillo_0000",
+      "deviantArt": null,
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    }
+  ],
   "uploaderId": null,
-  "uploadedAt": "2021-11-02T11:16:19.048684Z",
+  "uploadedAt": "2022-02-19T03:48:56.960171Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2250,
-  "height": 4000,
-  "byteSize": 7662986,
-  "url": "https://cdn.waifu.im/2028.png",
+  "width": 1191,
+  "height": 2000,
+  "byteSize": 4622917,
+  "url": "https://cdn.waifu.im/7511.png",
   "tags": [
+    {
+      "id": 7,
+      "name": "Oppai",
+      "slug": "oppai",
+      "description": "Large-breasted women",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
     {
       "id": 12,
       "name": "Waifu",
       "slug": "waifu",
       "description": "A female anime/manga character.",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
+    {
+      "id": 14,
+      "name": "Mori Calliope",
+      "slug": "mori-calliope",
+      "description": "Mori Calliope is an English Virtual YouTuber (VTuber) associated with hololive as part of its first-generation English branch of Vtubers.",
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
@@ -30,8 +60,8 @@
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Go as far as you can see and you will see further.",
-    "author": "Zig Ziglar",
+    "text": "The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.",
+    "author": "Ming-Dao Deng",
     "provider": "ZenQuotes"
   }
 }
