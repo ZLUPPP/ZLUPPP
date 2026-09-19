@@ -1,40 +1,19 @@
 {
-  "id": 7511,
-  "perceptualHash": "d23709f92634326f",
-  "extension": ".png",
-  "dominantColor": "#955F68",
-  "source": "https://www.pixiv.net/en/artworks/96353682",
-  "artists": [
-    {
-      "id": 686,
-      "name": "Pillo",
-      "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/16778114",
-      "twitter": "https://twitter.com/Pillo_0000",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 4354,
+  "perceptualHash": "c53b3e996944d28e",
+  "extension": ".jpeg",
+  "dominantColor": "#94808D",
+  "source": "https://reddit.com/nlh2yk/",
+  "artists": [],
   "uploaderId": null,
-  "uploadedAt": "2022-02-19T03:48:56.960171Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1191,
-  "height": 2000,
-  "byteSize": 4622917,
-  "url": "https://cdn.waifu.im/7511.png",
+  "width": 1327,
+  "height": 1969,
+  "byteSize": 388230,
+  "url": "https://cdn.waifu.im/4354.jpeg",
   "tags": [
-    {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -43,25 +22,16 @@
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
-    },
-    {
-      "id": 14,
-      "name": "Mori Calliope",
-      "slug": "mori-calliope",
-      "description": "Mori Calliope is an English Virtual YouTuber (VTuber) associated with hololive as part of its first-generation English branch of Vtubers.",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 8,
+  "favorites": 9,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.",
-    "author": "Ming-Dao Deng",
+    "text": "Everything you've ever wanted is on the other side of fear.",
+    "author": "Brian Tracy",
     "provider": "ZenQuotes"
   }
 }
