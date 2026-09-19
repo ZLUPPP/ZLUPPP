@@ -58,6 +58,14 @@
 
 ---
 
+<h2 align="center">🌹Waifu of the day🌹</h2>
+
+<p align="center">
+  <img src="./assets/waifu.png" width="420">
+</p>
+
+---
+
 <p align="center">
   <img src="./assets/leetcode-progress.svg"
        width="100%"
