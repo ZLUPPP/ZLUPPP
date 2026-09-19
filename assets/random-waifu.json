@@ -1,40 +1,19 @@
 {
-  "id": 7311,
-  "perceptualHash": "db4badaa45a95548",
-  "extension": ".png",
-  "dominantColor": "#BA967E",
-  "source": "https://www.pixiv.net/artworks/94819764",
-  "artists": [
-    {
-      "id": 116,
-      "name": "ミョワ",
-      "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/25628614",
-      "twitter": "https://twitter.com/_MYOWA",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 6557,
+  "perceptualHash": "eb1462cab445d6f2",
+  "extension": ".jpeg",
+  "dominantColor": "#CBBBBF",
+  "source": "https://reddit.com/pjw0qb/",
+  "artists": [],
   "uploaderId": null,
-  "uploadedAt": "2021-12-16T23:36:16.840552Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1601,
-  "height": 2968,
-  "byteSize": 8095660,
-  "url": "https://cdn.waifu.im/7311.png",
+  "width": 2500,
+  "height": 4000,
+  "byteSize": 701203,
+  "url": "https://cdn.waifu.im/6557.jpeg",
   "tags": [
-    {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -51,8 +30,8 @@
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Most people achieved their greatest success one step beyond what looked like their greatest failure.",
-    "author": "Brian Tracy",
+    "text": "Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.",
+    "author": "Wayne Dyer",
     "provider": "ZenQuotes"
   }
 }
