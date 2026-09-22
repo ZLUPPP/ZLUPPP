@@ -24,8 +24,8 @@ except ImportError as exc:  # pragma: no cover - Python < 3.9
 
 GRAPHQL_URL = "https://leetcode.com/graphql"
 DESIGN_VERSION = "pixel-platformer-v7"
-DEFAULT_CONFIG = Path("../leetcode.json")
-DEFAULT_OUTPUT = Path("../assets/leetcode-progress.svg")
+DEFAULT_CONFIG = Path("leetcode.json")
+DEFAULT_OUTPUT = Path("assets/leetcode-progress.svg")
 DEFAULT_FETCH_LIMIT = 1_000
 REQUEST_TIMEOUT = 25
 DIFFICULTY_BATCH_SIZE = 40
