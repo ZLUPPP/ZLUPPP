@@ -140,18 +140,18 @@
   <circle cx="313" cy="525" r="4" fill="#f85149"/>
   <text x="325" y="530" class="value" style="fill:#f85149">0 HARD</text>
   
-  <text x="48" y="579" class="small dim">DAY 23/30</text>
+  <text x="48" y="579" class="small dim">DAY 24/30</text>
   <text x="420" y="579" class="small dim" text-anchor="end">UNIQUE ACCEPTED</text>
 
   <rect x="460" y="467" width="412" height="137" rx="8"
         fill="#161b22" stroke="#30363d"/>
   <text x="480" y="495" class="label dim">CLIMB STATUS</text>
   <text x="480" y="524" class="small dim">Expected</text>
-  <text x="585" y="524" class="value">23</text>
+  <text x="585" y="524" class="value">24</text>
   <text x="480" y="547" class="small dim">Current</text>
   <text x="585" y="547" class="value">4</text>
   <text x="480" y="570" class="small dim">Delta</text>
-  <text x="585" y="570" class="value" style="fill:#f85149">-19</text>
+  <text x="585" y="570" class="value" style="fill:#f85149">-20</text>
   <circle cx="670" cy="545" r="5" fill="#f85149"/>
   <text x="684" y="550" class="label" style="fill:#f85149">BELOW SCHEDULE</text>
 
