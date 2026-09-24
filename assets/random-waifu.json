@@ -1,18 +1,18 @@
 {
-  "id": 216,
-  "perceptualHash": "92d6f6c23a13278d",
+  "id": 6619,
+  "perceptualHash": "e556e0e987899c93",
   "extension": ".jpeg",
-  "dominantColor": "#998F9B",
-  "source": "https://reddit.com/c2litf/",
+  "dominantColor": "#98878F",
+  "source": "https://reddit.com/m72ufy/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2480,
-  "height": 3508,
-  "byteSize": 1448988,
-  "url": "https://cdn.waifu.im/216.jpeg",
+  "width": 1308,
+  "height": 2048,
+  "byteSize": 337168,
+  "url": "https://cdn.waifu.im/6619.jpeg",
   "tags": [
     {
       "id": 12,
@@ -22,16 +22,25 @@
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
+    },
+    {
+      "id": 13,
+      "name": "Maid",
+      "slug": "maid",
+      "description": "Cute women employed to do domestic work in their working uniform.",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 7,
+  "favorites": 9,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "It's very strange that the people you love are often the people you're most cruel to.",
-    "author": "Kenneth Branagh",
+    "text": "Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.",
+    "author": "Alexander Graham Bell",
     "provider": "ZenQuotes"
   }
 }
