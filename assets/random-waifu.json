@@ -1,33 +1,24 @@
 {
-  "id": 6619,
-  "perceptualHash": "e556e0e987899c93",
-  "extension": ".jpeg",
-  "dominantColor": "#98878F",
-  "source": "https://reddit.com/m72ufy/",
+  "id": 2652,
+  "perceptualHash": "ce2fb124b7581cca",
+  "extension": ".png",
+  "dominantColor": "#A08290",
+  "source": "https://reddit.com/l1pdos/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1308,
-  "height": 2048,
-  "byteSize": 337168,
-  "url": "https://cdn.waifu.im/6619.jpeg",
+  "width": 2250,
+  "height": 4000,
+  "byteSize": 7346042,
+  "url": "https://cdn.waifu.im/2652.png",
   "tags": [
     {
       "id": 12,
       "name": "Waifu",
       "slug": "waifu",
       "description": "A female anime/manga character.",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
-    {
-      "id": 13,
-      "name": "Maid",
-      "slug": "maid",
-      "description": "Cute women employed to do domestic work in their working uniform.",
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
@@ -39,8 +30,8 @@
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.",
-    "author": "Alexander Graham Bell",
+    "text": "To live is to be willing to die over and over again.",
+    "author": "Pema Chodron",
     "provider": "ZenQuotes"
   }
 }
