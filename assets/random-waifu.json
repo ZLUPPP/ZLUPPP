@@ -1,16 +1,16 @@
 {
-  "id": 7629,
-  "perceptualHash": "dcc3b2ad2566512d",
-  "extension": ".png",
-  "dominantColor": "#ADAEBF",
-  "source": "https://www.pixiv.net/en/artworks/97496385",
+  "id": 7699,
+  "perceptualHash": "8cb4b54b35e5c127",
+  "extension": ".jpg",
+  "dominantColor": "#777C93",
+  "source": "https://twitter.com/taya_oco/status/1528355853652602885",
   "artists": [
     {
-      "id": 66,
-      "name": "おゆわり",
+      "id": 174,
+      "name": "TAYA",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/44898022",
-      "twitter": "https://twitter.com/oyuwari_u",
+      "pixiv": "https://www.pixiv.net/users/5323203",
+      "twitter": "https://twitter.com/taya_oco",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,28 +18,19 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2022-04-09T06:56:41.604292Z",
+  "uploadedAt": "2022-05-30T00:12:25.692981Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1019,
-  "height": 1645,
-  "byteSize": 2289128,
-  "url": "https://cdn.waifu.im/7629.png",
+  "width": 1364,
+  "height": 2048,
+  "byteSize": 442593,
+  "url": "https://cdn.waifu.im/7699.jpg",
   "tags": [
     {
       "id": 7,
       "name": "Oppai",
       "slug": "oppai",
       "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
-    {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
@@ -55,13 +46,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 13,
+  "favorites": 6,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "The best of us sometimes eat our words.",
-    "author": "Albus Dumbledore",
+    "text": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost",
     "provider": "ZenQuotes"
   }
 }
