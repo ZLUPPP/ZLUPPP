@@ -1,16 +1,16 @@
 {
-  "id": 7699,
-  "perceptualHash": "8cb4b54b35e5c127",
+  "id": 7433,
+  "perceptualHash": "deaca62d8c1e1d58",
   "extension": ".jpg",
-  "dominantColor": "#777C93",
-  "source": "https://twitter.com/taya_oco/status/1528355853652602885",
+  "dominantColor": "#B5AFAF",
+  "source": "https://www.pixiv.net/en/artworks/95686573",
   "artists": [
     {
-      "id": 174,
-      "name": "TAYA",
+      "id": 899,
+      "name": "葎",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/5323203",
-      "twitter": "https://twitter.com/taya_oco",
+      "pixiv": "https://www.pixiv.net/users/27790467",
+      "twitter": "https://twitter.com/rits_meg",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,19 +18,28 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2022-05-30T00:12:25.692981Z",
+  "uploadedAt": "2022-01-24T06:03:14.345335Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1364,
-  "height": 2048,
-  "byteSize": 442593,
-  "url": "https://cdn.waifu.im/7699.jpg",
+  "width": 2000,
+  "height": 4500,
+  "byteSize": 3905879,
+  "url": "https://cdn.waifu.im/7433.jpg",
   "tags": [
     {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
+      "id": 5,
+      "name": "Marin Kitagawa",
+      "slug": "marin-kitagawa",
+      "description": "One of two main protagonists (alongside Wakana Gojo) in the anime and manga series My Dress-Up Darling.",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
+    {
+      "id": 11,
+      "name": "Uniform",
+      "slug": "uniform",
+      "description": "Women wearing any kind of uniform, cosplay etc... ",
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
@@ -46,13 +55,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 6,
+  "favorites": 9,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "In three words I can sum up everything I've learned about life: it goes on.",
-    "author": "Robert Frost",
+    "text": "Good, better, best. Never let it rest. 'Til your good is better and your better is best.",
+    "author": "St. Jerome",
     "provider": "ZenQuotes"
   }
 }
