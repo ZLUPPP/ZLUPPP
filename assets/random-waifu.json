@@ -1,16 +1,16 @@
 {
-  "id": 7433,
-  "perceptualHash": "deaca62d8c1e1d58",
+  "id": 1292,
+  "perceptualHash": "ed59d094126e3f34",
   "extension": ".jpg",
-  "dominantColor": "#B5AFAF",
-  "source": "https://www.pixiv.net/en/artworks/95686573",
+  "dominantColor": "#D0B9B6",
+  "source": "https://twitter.com/pro_p24/status/1283444954774171648",
   "artists": [
     {
-      "id": 899,
-      "name": "葎",
+      "id": 371,
+      "name": "Pro-p",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/27790467",
-      "twitter": "https://twitter.com/rits_meg",
+      "pixiv": null,
+      "twitter": "https://twitter.com/pro_p24",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,23 +18,14 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2022-01-24T06:03:14.345335Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2000,
-  "height": 4500,
-  "byteSize": 3905879,
-  "url": "https://cdn.waifu.im/7433.jpg",
+  "width": 2105,
+  "height": 4096,
+  "byteSize": 741842,
+  "url": "https://cdn.waifu.im/1292.jpg",
   "tags": [
-    {
-      "id": 5,
-      "name": "Marin Kitagawa",
-      "slug": "marin-kitagawa",
-      "description": "One of two main protagonists (alongside Wakana Gojo) in the anime and manga series My Dress-Up Darling.",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 11,
       "name": "Uniform",
@@ -55,13 +46,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 9,
+  "favorites": 8,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Good, better, best. Never let it rest. 'Til your good is better and your better is best.",
-    "author": "St. Jerome",
+    "text": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+    "author": "Oprah Winfrey",
     "provider": "ZenQuotes"
   }
 }
