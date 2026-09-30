@@ -1,40 +1,19 @@
 {
-  "id": 1292,
-  "perceptualHash": "ed59d094126e3f34",
-  "extension": ".jpg",
-  "dominantColor": "#D0B9B6",
-  "source": "https://twitter.com/pro_p24/status/1283444954774171648",
-  "artists": [
-    {
-      "id": 371,
-      "name": "Pro-p",
-      "patreon": null,
-      "pixiv": null,
-      "twitter": "https://twitter.com/pro_p24",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 2132,
+  "perceptualHash": "ebe9f59c82142ce1",
+  "extension": ".png",
+  "dominantColor": "#C9BCC8",
+  "source": "https://reddit.com/jxhp5m/",
+  "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2105,
-  "height": 4096,
-  "byteSize": 741842,
-  "url": "https://cdn.waifu.im/1292.jpg",
+  "width": 2250,
+  "height": 4000,
+  "byteSize": 7300391,
+  "url": "https://cdn.waifu.im/2132.png",
   "tags": [
-    {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -46,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 8,
+  "favorites": 12,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "The more you praise and celebrate your life, the more there is in life to celebrate.",
-    "author": "Oprah Winfrey",
+    "text": "May you live all the days of your life.",
+    "author": "Jonathan Swift",
     "provider": "ZenQuotes"
   }
 }
