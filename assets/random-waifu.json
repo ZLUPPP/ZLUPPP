@@ -1,9 +1,9 @@
 {
-  "id": 2132,
-  "perceptualHash": "ebe9f59c82142ce1",
+  "id": 5966,
+  "perceptualHash": "b30e317e04fb0be8",
   "extension": ".png",
-  "dominantColor": "#C9BCC8",
-  "source": "https://reddit.com/jxhp5m/",
+  "dominantColor": "#86646A",
+  "source": "https://reddit.com/oo02h0/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
@@ -11,8 +11,8 @@
   "isAnimated": false,
   "width": 2250,
   "height": 4000,
-  "byteSize": 7300391,
-  "url": "https://cdn.waifu.im/2132.png",
+  "byteSize": 2848979,
+  "url": "https://cdn.waifu.im/5966.png",
   "tags": [
     {
       "id": 12,
@@ -25,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 12,
+  "favorites": 10,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "May you live all the days of your life.",
-    "author": "Jonathan Swift",
+    "text": "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.",
+    "author": "Robert Greene",
     "provider": "ZenQuotes"
   }
 }
