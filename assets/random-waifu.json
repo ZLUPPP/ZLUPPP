@@ -1,49 +1,19 @@
 {
-  "id": 7629,
-  "perceptualHash": "dcc3b2ad2566512d",
+  "id": 4004,
+  "perceptualHash": "ceb6bb07c0383378",
   "extension": ".png",
-  "dominantColor": "#ADAEBF",
-  "source": "https://www.pixiv.net/en/artworks/97496385",
-  "artists": [
-    {
-      "id": 66,
-      "name": "おゆわり",
-      "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/44898022",
-      "twitter": "https://twitter.com/oyuwari_u",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "dominantColor": "#84786E",
+  "source": "https://reddit.com/ncow02/",
+  "artists": [],
   "uploaderId": null,
-  "uploadedAt": "2022-04-09T06:56:41.604292Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1019,
-  "height": 1645,
-  "byteSize": 2289128,
-  "url": "https://cdn.waifu.im/7629.png",
+  "width": 2250,
+  "height": 4000,
+  "byteSize": 4991441,
+  "url": "https://cdn.waifu.im/4004.png",
   "tags": [
-    {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
-    {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -55,12 +25,12 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 13,
+  "favorites": 9,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "To wish you were someone else is to waste the person you are.",
+    "text": "Be brave enough to suck at something new.",
     "author": "Unknown",
     "provider": "ZenQuotes"
   }
