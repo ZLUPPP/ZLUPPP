@@ -1,19 +1,28 @@
 {
-  "id": 4004,
-  "perceptualHash": "ceb6bb07c0383378",
-  "extension": ".png",
-  "dominantColor": "#84786E",
-  "source": "https://reddit.com/ncow02/",
+  "id": 4096,
+  "perceptualHash": "8c3cfb8304575fa8",
+  "extension": ".jpeg",
+  "dominantColor": "#EEE5E3",
+  "source": "https://reddit.com/nfb31q/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2250,
-  "height": 4000,
-  "byteSize": 4991441,
-  "url": "https://cdn.waifu.im/4004.png",
+  "width": 1000,
+  "height": 2000,
+  "byteSize": 103553,
+  "url": "https://cdn.waifu.im/4096.jpeg",
   "tags": [
+    {
+      "id": 7,
+      "name": "Oppai",
+      "slug": "oppai",
+      "description": "Large-breasted women",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
     {
       "id": 12,
       "name": "Waifu",
@@ -25,13 +34,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 9,
+  "favorites": 8,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Be brave enough to suck at something new.",
-    "author": "Unknown",
+    "text": "Human beings can alter their lives by altering their attitudes of mind.",
+    "author": "William James",
     "provider": "ZenQuotes"
   }
 }
