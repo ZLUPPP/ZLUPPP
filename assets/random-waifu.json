@@ -1,28 +1,19 @@
 {
-  "id": 4096,
-  "perceptualHash": "8c3cfb8304575fa8",
-  "extension": ".jpeg",
-  "dominantColor": "#EEE5E3",
-  "source": "https://reddit.com/nfb31q/",
+  "id": 1066,
+  "perceptualHash": "8e34b4cb3c483e6d",
+  "extension": ".png",
+  "dominantColor": "#688691",
+  "source": "https://reddit.com/griwhs/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1000,
-  "height": 2000,
-  "byteSize": 103553,
-  "url": "https://cdn.waifu.im/4096.jpeg",
+  "width": 1592,
+  "height": 2830,
+  "byteSize": 3829104,
+  "url": "https://cdn.waifu.im/1066.png",
   "tags": [
-    {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -34,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 8,
+  "favorites": 7,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Human beings can alter their lives by altering their attitudes of mind.",
-    "author": "William James",
+    "text": "What the mind can conceive and believe, and the heart desire, you can achieve.",
+    "author": "Norman Vincent Peale",
     "provider": "ZenQuotes"
   }
 }
