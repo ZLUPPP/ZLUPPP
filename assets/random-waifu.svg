@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
  width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title description">
- <title id="title">A little pause — 2026-10-07</title>
- <desc id="description">People are not disturbed by things, but by the views they take of them.</desc>
+ <title id="title">A little pause — 2026-10-08</title>
+ <desc id="description">High thoughts must have high language.</desc>
  <defs><clipPath id="art"><rect x="20" y="64" width="404" height="536" rx="12"/></clipPath></defs>
  <rect x="1" y="1" width="898" height="618" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
  <path d="M17 1H883Q899 1 899 17V43H1V17Q1 1 17 1" fill="#161b22"/>
@@ -15,11 +15,11 @@
  <rect x="464" y="100" width="32" height="3" rx="1.5" fill="#f2a7cd"/>
  <text x="464" y="130" font-size="12" fill="#f2a7cd" letter-spacing="2">A MOMENT OF INSPIRATION</text>
  <text x="457" y="218" font-family="Georgia, serif" font-size="76" fill="#303044">“</text>
- <text x="464" y="272" font-size="19" fill="#e6edf3">People are not disturbed by</text><text x="464" y="300" font-size="19" fill="#e6edf3">things, but by the views they</text><text x="464" y="328" font-size="19" fill="#e6edf3">take of them.</text>
+ <text x="464" y="286" font-size="19" fill="#e6edf3">High thoughts must have high</text><text x="464" y="314" font-size="19" fill="#e6edf3">language.</text>
  <path d="M464 451H500" stroke="#91bfff" stroke-width="2"/>
- <text x="464" y="481" font-size="14" fill="#91bfff">— Epictetus</text>
+ <text x="464" y="481" font-size="14" fill="#91bfff">— Aristophanes</text>
  <path d="M464 550H864" stroke="#21262d"/>
- <text x="464" y="578" font-size="12" fill="#8b949e">07.10.2026</text>
+ <text x="464" y="578" font-size="12" fill="#8b949e">08.10.2026</text>
  <a xlink:href="https://zenquotes.io/"><text x="864" y="578" text-anchor="end" font-size="11" fill="#8b949e">Quotes by ZenQuotes ↗</text></a>
  </g>
 </svg>
