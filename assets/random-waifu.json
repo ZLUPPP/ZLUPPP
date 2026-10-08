@@ -1,16 +1,16 @@
 {
-  "id": 6647,
-  "perceptualHash": "eb92cc4d924d1e65",
+  "id": 7635,
+  "perceptualHash": "db69e61652c20f4b",
   "extension": ".jpg",
-  "dominantColor": "#DBD1D5",
-  "source": "https://www.pixiv.net/en/artworks/91774404",
+  "dominantColor": "#A68E8F",
+  "source": "https://www.pixiv.net/en/artworks/95446835",
   "artists": [
     {
-      "id": 63,
-      "name": "えみょ",
+      "id": 518,
+      "name": "冷織",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/5596229",
-      "twitter": "https://twitter.com/emyo27",
+      "pixiv": "https://www.pixiv.net/users/67539403",
+      "twitter": "https://twitter.com/hiyahiyaval",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,13 +18,13 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2021-11-02T11:16:19.048684Z",
+  "uploadedAt": "2022-04-13T19:10:45.010282Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1000,
-  "height": 1637,
-  "byteSize": 647298,
-  "url": "https://cdn.waifu.im/6647.jpg",
+  "width": 3181,
+  "height": 4728,
+  "byteSize": 18089504,
+  "url": "https://cdn.waifu.im/7635.jpg",
   "tags": [
     {
       "id": 12,
@@ -34,25 +34,16 @@
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
-    },
-    {
-      "id": 13,
-      "name": "Maid",
-      "slug": "maid",
-      "description": "Cute women employed to do domestic work in their working uniform.",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 13,
+  "favorites": 7,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "High thoughts must have high language.",
-    "author": "Aristophanes",
+    "text": "Our truest life is when we are in dreams awake.",
+    "author": "Henry David Thoreau",
     "provider": "ZenQuotes"
   }
 }
