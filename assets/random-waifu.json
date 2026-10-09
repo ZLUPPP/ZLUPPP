@@ -1,16 +1,16 @@
 {
-  "id": 7635,
-  "perceptualHash": "db69e61652c20f4b",
-  "extension": ".jpg",
-  "dominantColor": "#A68E8F",
-  "source": "https://www.pixiv.net/en/artworks/95446835",
+  "id": 7629,
+  "perceptualHash": "dcc3b2ad2566512d",
+  "extension": ".png",
+  "dominantColor": "#ADAEBF",
+  "source": "https://www.pixiv.net/en/artworks/97496385",
   "artists": [
     {
-      "id": 518,
-      "name": "冷織",
+      "id": 66,
+      "name": "おゆわり",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/67539403",
-      "twitter": "https://twitter.com/hiyahiyaval",
+      "pixiv": "https://www.pixiv.net/users/44898022",
+      "twitter": "https://twitter.com/oyuwari_u",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,14 +18,32 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2022-04-13T19:10:45.010282Z",
+  "uploadedAt": "2022-04-09T06:56:41.604292Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 3181,
-  "height": 4728,
-  "byteSize": 18089504,
-  "url": "https://cdn.waifu.im/7635.jpg",
+  "width": 1019,
+  "height": 1645,
+  "byteSize": 2289128,
+  "url": "https://cdn.waifu.im/7629.png",
   "tags": [
+    {
+      "id": 7,
+      "name": "Oppai",
+      "slug": "oppai",
+      "description": "Large-breasted women",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
+    {
+      "id": 11,
+      "name": "Uniform",
+      "slug": "uniform",
+      "description": "Women wearing any kind of uniform, cosplay etc... ",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
     {
       "id": 12,
       "name": "Waifu",
@@ -37,13 +55,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 7,
+  "favorites": 13,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Our truest life is when we are in dreams awake.",
-    "author": "Henry David Thoreau",
+    "text": "If your mind is empty, it is always ready for anything, it is open to everything.",
+    "author": "Shunryu Suzuki",
     "provider": "ZenQuotes"
   }
 }
