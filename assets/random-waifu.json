@@ -1,49 +1,19 @@
 {
-  "id": 7629,
-  "perceptualHash": "dcc3b2ad2566512d",
+  "id": 5966,
+  "perceptualHash": "b30e317e04fb0be8",
   "extension": ".png",
-  "dominantColor": "#ADAEBF",
-  "source": "https://www.pixiv.net/en/artworks/97496385",
-  "artists": [
-    {
-      "id": 66,
-      "name": "おゆわり",
-      "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/44898022",
-      "twitter": "https://twitter.com/oyuwari_u",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "dominantColor": "#86646A",
+  "source": "https://reddit.com/oo02h0/",
+  "artists": [],
   "uploaderId": null,
-  "uploadedAt": "2022-04-09T06:56:41.604292Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1019,
-  "height": 1645,
-  "byteSize": 2289128,
-  "url": "https://cdn.waifu.im/7629.png",
+  "width": 2250,
+  "height": 4000,
+  "byteSize": 2848979,
+  "url": "https://cdn.waifu.im/5966.png",
   "tags": [
-    {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
-    {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -55,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 13,
+  "favorites": 10,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "If your mind is empty, it is always ready for anything, it is open to everything.",
-    "author": "Shunryu Suzuki",
+    "text": "Success is about creating value.",
+    "author": "Candice Carpenter",
     "provider": "ZenQuotes"
   }
 }
