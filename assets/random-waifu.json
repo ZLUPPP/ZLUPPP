@@ -1,16 +1,16 @@
 {
-  "id": 7658,
-  "perceptualHash": "94b00e073e2bed7a",
+  "id": 7042,
+  "perceptualHash": "eb49871ed03ba236",
   "extension": ".jpg",
-  "dominantColor": "#A18194",
-  "source": "https://www.pixiv.net/en/artworks/97804122",
+  "dominantColor": "#D2BDB5",
+  "source": "https://www.pixiv.net/en/artworks/82483258",
   "artists": [
     {
-      "id": 258,
-      "name": "Jinyeong",
+      "id": 558,
+      "name": "Lkeris",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/44775338",
-      "twitter": "https://twitter.com/888_dalae",
+      "pixiv": "https://www.pixiv.net/users/4160064",
+      "twitter": "https://twitter.com/Lkeris_",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,23 +18,14 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2022-04-22T20:25:28.772177Z",
+  "uploadedAt": "2021-11-06T14:47:17.371469Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 3207,
-  "height": 5824,
-  "byteSize": 17920063,
-  "url": "https://cdn.waifu.im/7658.jpg",
+  "width": 1000,
+  "height": 1415,
+  "byteSize": 688370,
+  "url": "https://cdn.waifu.im/7042.jpg",
   "tags": [
-    {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -46,13 +37,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 9,
+  "favorites": 7,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Never feel shame for trying and failing, for he who has never failed is he who has never tried.",
-    "author": "Og Mandino",
+    "text": "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.",
+    "author": "Billie Jean King",
     "provider": "ZenQuotes"
   }
 }
