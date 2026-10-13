@@ -1,16 +1,16 @@
 {
-  "id": 7373,
-  "perceptualHash": "cbe594184f76caa1",
+  "id": 7658,
+  "perceptualHash": "94b00e073e2bed7a",
   "extension": ".jpg",
-  "dominantColor": "#C3BABB",
-  "source": "https://www.pixiv.net/en/artworks/92564647",
+  "dominantColor": "#A18194",
+  "source": "https://www.pixiv.net/en/artworks/97804122",
   "artists": [
     {
-      "id": 1150,
-      "name": "Eichi",
+      "id": 258,
+      "name": "Jinyeong",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/35286171",
-      "twitter": "https://twitter.com/skskdi12z",
+      "pixiv": "https://www.pixiv.net/users/44775338",
+      "twitter": "https://twitter.com/888_dalae",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,19 +18,19 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2022-01-03T16:12:34.153301Z",
+  "uploadedAt": "2022-04-22T20:25:28.772177Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 3101,
-  "height": 4900,
-  "byteSize": 5180168,
-  "url": "https://cdn.waifu.im/7373.jpg",
+  "width": 3207,
+  "height": 5824,
+  "byteSize": 17920063,
+  "url": "https://cdn.waifu.im/7658.jpg",
   "tags": [
     {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
+      "id": 7,
+      "name": "Oppai",
+      "slug": "oppai",
+      "description": "Large-breasted women",
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
@@ -46,13 +46,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 8,
+  "favorites": 9,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Don't spend major time on minor things.",
-    "author": "Jim Rohn",
+    "text": "Never feel shame for trying and failing, for he who has never failed is he who has never tried.",
+    "author": "Og Mandino",
     "provider": "ZenQuotes"
   }
 }
