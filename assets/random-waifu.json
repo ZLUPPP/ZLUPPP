@@ -1,30 +1,18 @@
 {
-  "id": 7042,
-  "perceptualHash": "eb49871ed03ba236",
-  "extension": ".jpg",
-  "dominantColor": "#D2BDB5",
-  "source": "https://www.pixiv.net/en/artworks/82483258",
-  "artists": [
-    {
-      "id": 558,
-      "name": "Lkeris",
-      "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/4160064",
-      "twitter": "https://twitter.com/Lkeris_",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 330,
+  "perceptualHash": "d52ad25d3b725452",
+  "extension": ".jpeg",
+  "dominantColor": "#BFB4C6",
+  "source": "https://reddit.com/d0es06/",
+  "artists": [],
   "uploaderId": null,
-  "uploadedAt": "2021-11-06T14:47:17.371469Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
   "width": 1000,
-  "height": 1415,
-  "byteSize": 688370,
-  "url": "https://cdn.waifu.im/7042.jpg",
+  "height": 1414,
+  "byteSize": 463203,
+  "url": "https://cdn.waifu.im/330.jpeg",
   "tags": [
     {
       "id": 12,
@@ -37,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 7,
+  "favorites": 13,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.",
-    "author": "Billie Jean King",
+    "text": "Opportunity comes when you continually push forward.",
+    "author": "Sonia Ricotti",
     "provider": "ZenQuotes"
   }
 }
