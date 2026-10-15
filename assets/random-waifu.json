@@ -1,19 +1,28 @@
 {
-  "id": 330,
-  "perceptualHash": "d52ad25d3b725452",
+  "id": 770,
+  "perceptualHash": "fda6e2685b43324c",
   "extension": ".jpeg",
-  "dominantColor": "#BFB4C6",
-  "source": "https://reddit.com/d0es06/",
+  "dominantColor": "#83827F",
+  "source": "https://reddit.com/fj0tcp/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1000,
-  "height": 1414,
-  "byteSize": 463203,
-  "url": "https://cdn.waifu.im/330.jpeg",
+  "width": 1455,
+  "height": 2048,
+  "byteSize": 316495,
+  "url": "https://cdn.waifu.im/770.jpeg",
   "tags": [
+    {
+      "id": 11,
+      "name": "Uniform",
+      "slug": "uniform",
+      "description": "Women wearing any kind of uniform, cosplay etc... ",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
     {
       "id": 12,
       "name": "Waifu",
@@ -25,13 +34,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 13,
+  "favorites": 9,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Opportunity comes when you continually push forward.",
-    "author": "Sonia Ricotti",
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Unknown",
     "provider": "ZenQuotes"
   }
 }
