@@ -1,18 +1,30 @@
 {
-  "id": 770,
-  "perceptualHash": "fda6e2685b43324c",
-  "extension": ".jpeg",
-  "dominantColor": "#83827F",
-  "source": "https://reddit.com/fj0tcp/",
-  "artists": [],
+  "id": 1292,
+  "perceptualHash": "ed59d094126e3f34",
+  "extension": ".jpg",
+  "dominantColor": "#D0B9B6",
+  "source": "https://twitter.com/pro_p24/status/1283444954774171648",
+  "artists": [
+    {
+      "id": 371,
+      "name": "Pro-p",
+      "patreon": null,
+      "pixiv": null,
+      "twitter": "https://twitter.com/pro_p24",
+      "deviantArt": null,
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    }
+  ],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1455,
-  "height": 2048,
-  "byteSize": 316495,
-  "url": "https://cdn.waifu.im/770.jpeg",
+  "width": 2105,
+  "height": 4096,
+  "byteSize": 741842,
+  "url": "https://cdn.waifu.im/1292.jpg",
   "tags": [
     {
       "id": 11,
@@ -34,13 +46,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 9,
+  "favorites": 8,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Difficult roads often lead to beautiful destinations.",
-    "author": "Unknown",
+    "text": "The Art of Peace begins with you.",
+    "author": "Morihei Ueshiba",
     "provider": "ZenQuotes"
   }
 }
