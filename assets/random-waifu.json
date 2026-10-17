@@ -1,40 +1,19 @@
 {
-  "id": 1292,
-  "perceptualHash": "ed59d094126e3f34",
-  "extension": ".jpg",
-  "dominantColor": "#D0B9B6",
-  "source": "https://twitter.com/pro_p24/status/1283444954774171648",
-  "artists": [
-    {
-      "id": 371,
-      "name": "Pro-p",
-      "patreon": null,
-      "pixiv": null,
-      "twitter": "https://twitter.com/pro_p24",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 118,
+  "perceptualHash": "ef2ea0d0dc66138b",
+  "extension": ".jpeg",
+  "dominantColor": "#9F7F66",
+  "source": "https://reddit.com/b07pd5/",
+  "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2105,
-  "height": 4096,
-  "byteSize": 741842,
-  "url": "https://cdn.waifu.im/1292.jpg",
+  "width": 2382,
+  "height": 2689,
+  "byteSize": 2079817,
+  "url": "https://cdn.waifu.im/118.jpeg",
   "tags": [
-    {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -46,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 8,
+  "favorites": 5,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "The Art of Peace begins with you.",
-    "author": "Morihei Ueshiba",
+    "text": "Great ones are willing to get burned time and again as they sharpen their swords in the fire.",
+    "author": "Josh Waitzkin",
     "provider": "ZenQuotes"
   }
 }
