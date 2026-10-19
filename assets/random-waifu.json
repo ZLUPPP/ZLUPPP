@@ -1,16 +1,16 @@
 {
-  "id": 7095,
-  "perceptualHash": "f83be31584a4bb61",
+  "id": 2801,
+  "perceptualHash": "fe45cbe6e800b12d",
   "extension": ".jpg",
-  "dominantColor": "#B3A7A7",
-  "source": "https://twitter.com/Shuvi1125/status/1460140509381345282",
+  "dominantColor": "#C5B8D5",
+  "source": "https://twitter.com/fuzichoco/status/1355097741462917122",
   "artists": [
     {
-      "id": 194,
-      "name": "슈비/シュヴィ｜2월 일러스타 F28,29",
+      "id": 278,
+      "name": "藤ちょこ-fuzichoco-",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/16643815",
-      "twitter": "https://twitter.com/Shuvi1125",
+      "pixiv": "https://pixiv.net/users/27517",
+      "twitter": "https://twitter.com/fuzichoco",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,23 +18,14 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2021-11-15T11:52:29.572711Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1200,
-  "height": 2257,
-  "byteSize": 327342,
-  "url": "https://cdn.waifu.im/7095.jpg",
+  "width": 1414,
+  "height": 2000,
+  "byteSize": 579712,
+  "url": "https://cdn.waifu.im/2801.jpg",
   "tags": [
-    {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -43,25 +34,16 @@
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
-    },
-    {
-      "id": 13,
-      "name": "Maid",
-      "slug": "maid",
-      "description": "Cute women employed to do domestic work in their working uniform.",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 26,
+  "favorites": 8,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "One small positive thought can change your whole day.",
-    "author": "Zig Ziglar",
+    "text": "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.",
+    "author": "Steve Maraboli",
     "provider": "ZenQuotes"
   }
 }
