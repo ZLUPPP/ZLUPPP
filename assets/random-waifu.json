@@ -1,31 +1,28 @@
 {
-  "id": 2801,
-  "perceptualHash": "fe45cbe6e800b12d",
-  "extension": ".jpg",
-  "dominantColor": "#C5B8D5",
-  "source": "https://twitter.com/fuzichoco/status/1355097741462917122",
-  "artists": [
-    {
-      "id": 278,
-      "name": "藤ちょこ-fuzichoco-",
-      "patreon": null,
-      "pixiv": "https://pixiv.net/users/27517",
-      "twitter": "https://twitter.com/fuzichoco",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 876,
+  "perceptualHash": "de116b9f16c19361",
+  "extension": ".png",
+  "dominantColor": "#A7ADA2",
+  "source": "https://reddit.com/g1qi47/",
+  "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1414,
-  "height": 2000,
-  "byteSize": 579712,
-  "url": "https://cdn.waifu.im/2801.jpg",
+  "width": 1716,
+  "height": 3050,
+  "byteSize": 5003422,
+  "url": "https://cdn.waifu.im/876.png",
   "tags": [
+    {
+      "id": 11,
+      "name": "Uniform",
+      "slug": "uniform",
+      "description": "Women wearing any kind of uniform, cosplay etc... ",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
     {
       "id": 12,
       "name": "Waifu",
@@ -37,13 +34,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 8,
+  "favorites": 9,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.",
-    "author": "Steve Maraboli",
+    "text": "Inspiration exists, but it has to find you working.",
+    "author": "Pablo Picasso",
     "provider": "ZenQuotes"
   }
 }
