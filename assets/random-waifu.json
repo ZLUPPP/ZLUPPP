@@ -1,28 +1,31 @@
 {
-  "id": 876,
-  "perceptualHash": "de116b9f16c19361",
-  "extension": ".png",
-  "dominantColor": "#A7ADA2",
-  "source": "https://reddit.com/g1qi47/",
-  "artists": [],
+  "id": 4460,
+  "perceptualHash": "ea7b95262526626d",
+  "extension": ".jpg",
+  "dominantColor": "#B19DA9",
+  "source": "https://www.pixiv.net/en/artworks/90302397",
+  "artists": [
+    {
+      "id": 63,
+      "name": "えみょ",
+      "patreon": null,
+      "pixiv": "https://www.pixiv.net/users/5596229",
+      "twitter": "https://twitter.com/emyo27",
+      "deviantArt": null,
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    }
+  ],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1716,
-  "height": 3050,
-  "byteSize": 5003422,
-  "url": "https://cdn.waifu.im/876.png",
+  "width": 800,
+  "height": 1170,
+  "byteSize": 946829,
+  "url": "https://cdn.waifu.im/4460.jpg",
   "tags": [
-    {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -34,13 +37,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 9,
+  "favorites": 14,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Inspiration exists, but it has to find you working.",
-    "author": "Pablo Picasso",
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
     "provider": "ZenQuotes"
   }
 }
