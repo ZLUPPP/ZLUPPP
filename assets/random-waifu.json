@@ -1,16 +1,16 @@
 {
-  "id": 4460,
-  "perceptualHash": "ea7b95262526626d",
+  "id": 7010,
+  "perceptualHash": "e4239249ed95627e",
   "extension": ".jpg",
-  "dominantColor": "#B19DA9",
-  "source": "https://www.pixiv.net/en/artworks/90302397",
+  "dominantColor": "#89828F",
+  "source": "https://www.pixiv.net/en/artworks/83173757",
   "artists": [
     {
-      "id": 63,
-      "name": "えみょ",
+      "id": 80,
+      "name": "GongHa",
       "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/5596229",
-      "twitter": "https://twitter.com/emyo27",
+      "pixiv": "https://www.pixiv.net/users/11525425",
+      "twitter": "https://twitter.com/gongha1020",
       "deviantArt": null,
       "reviewStatus": "Accepted",
       "creatorId": null,
@@ -18,13 +18,13 @@
     }
   ],
   "uploaderId": null,
-  "uploadedAt": "2021-11-02T11:16:19.048684Z",
+  "uploadedAt": "2021-11-04T20:04:28.441763Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 800,
-  "height": 1170,
-  "byteSize": 946829,
-  "url": "https://cdn.waifu.im/4460.jpg",
+  "width": 4650,
+  "height": 5999,
+  "byteSize": 17236849,
+  "url": "https://cdn.waifu.im/7010.jpg",
   "tags": [
     {
       "id": 12,
@@ -37,13 +37,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 14,
+  "favorites": 8,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "The secret of getting ahead is getting started.",
-    "author": "Mark Twain",
+    "text": "We ordinary people must forge our own beauty.",
+    "author": "Kenji Miyazawa",
     "provider": "ZenQuotes"
   }
 }
