@@ -1,30 +1,18 @@
 {
-  "id": 7010,
-  "perceptualHash": "e4239249ed95627e",
-  "extension": ".jpg",
-  "dominantColor": "#89828F",
-  "source": "https://www.pixiv.net/en/artworks/83173757",
-  "artists": [
-    {
-      "id": 80,
-      "name": "GongHa",
-      "patreon": null,
-      "pixiv": "https://www.pixiv.net/users/11525425",
-      "twitter": "https://twitter.com/gongha1020",
-      "deviantArt": null,
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 1699,
+  "perceptualHash": "eae39414a13f636c",
+  "extension": ".png",
+  "dominantColor": "#C1B3B6",
+  "source": "https://reddit.com/j00cev/",
+  "artists": [],
   "uploaderId": null,
-  "uploadedAt": "2021-11-04T20:04:28.441763Z",
+  "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 4650,
-  "height": 5999,
-  "byteSize": 17236849,
-  "url": "https://cdn.waifu.im/7010.jpg",
+  "width": 2250,
+  "height": 4000,
+  "byteSize": 5912266,
+  "url": "https://cdn.waifu.im/1699.png",
   "tags": [
     {
       "id": 12,
@@ -37,13 +25,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 8,
+  "favorites": 12,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "We ordinary people must forge our own beauty.",
-    "author": "Kenji Miyazawa",
+    "text": "Your only limitations are those you set up in your mind or permit others to set up for you.",
+    "author": "Og Mandino",
     "provider": "ZenQuotes"
   }
 }
