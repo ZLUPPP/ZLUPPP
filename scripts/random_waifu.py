@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Download a random SFW portrait from Waifu.im and build assets/random-waifu.svg.
+"""Download a random SFW portrait from Waifu API and build assets/random-waifu.svg.
 
 Run: python scripts/random_waifu.py
 Requires Pillow. README.md is never modified.
-API documentation: https://docs.waifu.im/docs/getting-started/
+If an API is unavailable, keep an existing valid card unchanged.
+API documentation: https://docs.waifu.best/docs/getting-started/
 """
 from __future__ import annotations
 
@@ -18,13 +19,14 @@ import time
 from datetime import date, datetime, timedelta, timezone
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from io import BytesIO
 from pathlib import Path
 from typing import Any
 
 from PIL import Image
 
-API_URL = "https://api.waifu.im/images"
+API_URL = "https://api.waifu.best/images"
 MAX_BYTES = 20 * 1024 * 1024
 
 
@@ -99,6 +101,18 @@ def select_portrait(attempts: int, min_size: int) -> tuple[dict[str, Any], bytes
 
 
 QUOTE_API_URL = "https://zenquotes.io/api/random"
+
+
+def has_existing_card(assets_dir: Path) -> bool:
+    """Only tolerate an outage when a usable embedded SVG already exists."""
+    try:
+        root = ET.parse(assets_dir / "random-waifu.svg").getroot()
+        return root.tag == "{http://www.w3.org/2000/svg}svg" and any(
+            element.get("{http://www.w3.org/1999/xlink}href", element.get("href", "")).startswith("data:image/")
+            for element in root.iter("{http://www.w3.org/2000/svg}image")
+        )
+    except (OSError, ET.ParseError):
+        return False
 
 
 def fetch_quote(previous: str = "") -> dict[str, str]:
@@ -180,8 +194,15 @@ def main() -> int:
             previous = json.loads(metadata_path.read_text(encoding="utf-8")).get("quote", {}).get("text", "")
         except (ValueError, AttributeError):
             pass
-    quote = fetch_quote(previous)
-    art, data = select_portrait(args.attempts, args.min_art_size)
+    try:
+        quote = fetch_quote(previous)
+        art, data = select_portrait(args.attempts, args.min_art_size)
+    except (OSError, ValueError, RuntimeError) as exc:
+        if not has_existing_card(args.assets_dir):
+            raise
+        print(f"WARNING: {exc}", file=sys.stderr)
+        print("Keeping the existing waifu card unchanged; no update available.")
+        return 0
     art["quote"] = quote
     args.assets_dir.mkdir(parents=True, exist_ok=True)
     image_path = args.assets_dir / "random-waifu.jpg"
@@ -200,7 +221,7 @@ def main() -> int:
         json.dumps(art, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     for suffix in (".png", ".webp", ".gif", ".jpeg"):
         (args.assets_dir / ("random-waifu" + suffix)).unlink(missing_ok=True)
-    print(f"Downloaded Waifu.im #{art['id']}: {art['width']}x{art['height']}")
+    print(f"Downloaded Waifu API #{art['id']}: {art['width']}x{art['height']}")
     print(f"SVG: {svg_path}")
     return 0
 

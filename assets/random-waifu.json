@@ -1,19 +1,40 @@
 {
-  "id": 1699,
-  "perceptualHash": "eae39414a13f636c",
-  "extension": ".png",
-  "dominantColor": "#C1B3B6",
-  "source": "https://reddit.com/j00cev/",
-  "artists": [],
+  "id": 6739,
+  "perceptualHash": "facb91664b92358c",
+  "extension": ".jpg",
+  "dominantColor": "#C0B2AF",
+  "source": "https://twitter.com/emyo27/status/1440260886246027265",
+  "artists": [
+    {
+      "id": 63,
+      "name": "えみょ",
+      "patreon": "",
+      "pixiv": "https://www.pixiv.net/users/5596229",
+      "twitter": "https://twitter.com/emyo27",
+      "deviantArt": "",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    }
+  ],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 2250,
-  "height": 4000,
-  "byteSize": 5912266,
-  "url": "https://cdn.waifu.im/1699.png",
+  "width": 1000,
+  "height": 1810,
+  "byteSize": 1004602,
+  "url": "https://cdn.waifu.best/6739.jpg",
   "tags": [
+    {
+      "id": 7,
+      "name": "Oppai",
+      "slug": "oppai",
+      "description": "Large-breasted women",
+      "reviewStatus": "Accepted",
+      "creatorId": null,
+      "imageCount": 0
+    },
     {
       "id": 12,
       "name": "Waifu",
@@ -25,13 +46,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 12,
+  "favorites": 0,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "Your only limitations are those you set up in your mind or permit others to set up for you.",
-    "author": "Og Mandino",
+    "text": "The truth is simple. If it was complicated, everyone would understand it.",
+    "author": "Walt Whitman",
     "provider": "ZenQuotes"
   }
 }
