@@ -1,36 +1,24 @@
 {
-  "id": 6739,
-  "perceptualHash": "facb91664b92358c",
-  "extension": ".jpg",
-  "dominantColor": "#C0B2AF",
-  "source": "https://twitter.com/emyo27/status/1440260886246027265",
-  "artists": [
-    {
-      "id": 63,
-      "name": "えみょ",
-      "patreon": "",
-      "pixiv": "https://www.pixiv.net/users/5596229",
-      "twitter": "https://twitter.com/emyo27",
-      "deviantArt": "",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    }
-  ],
+  "id": 6541,
+  "perceptualHash": "e5938c6aaae558b4",
+  "extension": ".png",
+  "dominantColor": "#B2AEBD",
+  "source": null,
+  "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 1000,
-  "height": 1810,
-  "byteSize": 1004602,
-  "url": "https://cdn.waifu.best/6739.jpg",
+  "width": 3080,
+  "height": 5320,
+  "byteSize": 7204262,
+  "url": "https://cdn.waifu.best/6541.png",
   "tags": [
     {
-      "id": 7,
-      "name": "Oppai",
-      "slug": "oppai",
-      "description": "Large-breasted women",
+      "id": 11,
+      "name": "Uniform",
+      "slug": "uniform",
+      "description": "Women wearing any kind of uniform, cosplay etc... ",
       "reviewStatus": "Accepted",
       "creatorId": null,
       "imageCount": 0
@@ -46,13 +34,13 @@
     }
   ],
   "reviewStatus": "Accepted",
-  "favorites": 0,
+  "favorites": 1,
   "likedAt": null,
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "The truth is simple. If it was complicated, everyone would understand it.",
-    "author": "Walt Whitman",
+    "text": "Tomorrow is only found in the calendar of fools.",
+    "author": "Og Mandino",
     "provider": "ZenQuotes"
   }
 }
