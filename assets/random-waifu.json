@@ -1,28 +1,19 @@
 {
-  "id": 6541,
-  "perceptualHash": "e5938c6aaae558b4",
-  "extension": ".png",
-  "dominantColor": "#B2AEBD",
-  "source": null,
+  "id": 2083,
+  "perceptualHash": "b3e56aaa4924969b",
+  "extension": ".jpeg",
+  "dominantColor": "#796E73",
+  "source": "https://reddit.com/ju0711/",
   "artists": [],
   "uploaderId": null,
   "uploadedAt": "2021-11-02T11:16:19.048684Z",
   "isNsfw": false,
   "isAnimated": false,
-  "width": 3080,
-  "height": 5320,
-  "byteSize": 7204262,
-  "url": "https://cdn.waifu.best/6541.png",
+  "width": 1440,
+  "height": 2560,
+  "byteSize": 758681,
+  "url": "https://cdn.waifu.best/2083.jpeg",
   "tags": [
-    {
-      "id": 11,
-      "name": "Uniform",
-      "slug": "uniform",
-      "description": "Women wearing any kind of uniform, cosplay etc... ",
-      "reviewStatus": "Accepted",
-      "creatorId": null,
-      "imageCount": 0
-    },
     {
       "id": 12,
       "name": "Waifu",
@@ -39,8 +30,8 @@
   "addedToAlbumAt": null,
   "albums": [],
   "quote": {
-    "text": "The one who praises you is a thief. The one who criticizes you is your true friend.",
-    "author": "Seungsahn",
+    "text": "When you have to make a choice and don't make it, that is in itself a choice.",
+    "author": "William James",
     "provider": "ZenQuotes"
   }
 }
